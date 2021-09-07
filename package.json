@@ -1,11 +1,10 @@
 {
-  "name": "postcss-spiffing",
+  "name": "postcss-enintl",
   "version": "0.1.0",
-  "description": "PostCSS plugin to use British English",
+  "description": "PostCSS plugin to use International English",
   "main": "index.js",
   "keywords": [
-    "spiffing",
-    "british english",
+    "international english",
     "spelling",
     "css",
     "postcss",
@@ -18,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:HashanP/postcss-spiffing.git"
+    "url": "git@github.com:Fussmatte/postcss-enintl.git"
   },
   "devDependencies": {
     "expect.js": "^0.3.1",
